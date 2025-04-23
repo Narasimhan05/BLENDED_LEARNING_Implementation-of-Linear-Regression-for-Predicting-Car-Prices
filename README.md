@@ -131,12 +131,5 @@ plt.show()
 ![Screenshot 2025-04-23 190336](https://github.com/user-attachments/assets/8e9445d1-d893-47e5-892a-c47272fc7e63)
 
 
-
-
-## Output:
-#### MODEL COEFFICIENTS AND MODEL PERFORMANCE:
-![image](https://github.com/user-attachments/assets/4b507320-e326-4fee-920b-5192641958c5)
-
-
-## Result:
+# Result:
 Thus, the program to implement a linear regression model for predicting car prices is written and verified using Python programming, along with the testing of key assumptions for linear regression.
